@@ -5,3 +5,4 @@ ipykernel
 langchain_ollama
 pymupdf 
 sentence-transformers
+langchain_groq
