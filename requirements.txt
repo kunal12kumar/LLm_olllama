@@ -3,3 +3,5 @@ dotenv
 langchain_community
 ipykernel
 langchain_ollama
+pymupdf 
+sentence-transformers
