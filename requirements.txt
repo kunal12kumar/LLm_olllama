@@ -9,3 +9,6 @@ langchain_groq
 pymupdf
 pypdf
 sentence_transformers
+bs4
+playwright
+unstructured
